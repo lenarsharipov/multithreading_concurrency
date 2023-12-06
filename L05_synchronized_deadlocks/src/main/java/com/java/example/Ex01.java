@@ -1,4 +1,4 @@
-package com.java.example01;
+package com.java.example;
 
 public class Ex01 {
 
